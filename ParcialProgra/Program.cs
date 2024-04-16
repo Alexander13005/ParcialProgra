@@ -5458,7 +5458,14 @@
                         break;
                 }
                 break;
-
+            //MENU COMIDA CHINA 
+            case ("4"):
+                {
+                    Console.WriteLine("A alex le gusta la mona");
+                    Console.ReadKey();
+                }
+            break;
+               
         }
         Console.WriteLine(usuario + " " + "su precio total a pagar es de " + "$" + preciofinal);
     }
