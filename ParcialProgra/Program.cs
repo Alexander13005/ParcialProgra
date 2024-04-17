@@ -11,7 +11,13 @@
         double preciofinal = 0;
         //VARIABLE PARA QUE FUNCIONE EL SWITCH
         string p = "Si";
-
+        //VARIABLE SELECCIONAR MÉTODO DE PAGO
+        int selec = 0;
+        double dinero = 0;
+        //VARIABLES TARJETA DE CREDITO
+        int card;
+        double tarjeta = 1;
+        int cvv = 1;
 
         Console.WriteLine("Bienvenido a Rapids Food, por favor ingrese su nombre:");
         usuario = Console.ReadLine();
@@ -6635,8 +6641,42 @@
                         break;
                 }
                 break;
-
         }
         Console.WriteLine(usuario + " " + "su precio total a pagar es de " + "$" + preciofinal);
+        while(selec != 1 & selec != 2)
+        {
+            Console.WriteLine("Desea pagar con Efectivo (1) o Tarjeta (2)");
+            selec = int.Parse(Console.ReadLine());
+        }
+        switch (selec)
+        {
+            case 1:
+                while (dinero <= preciofinal)
+                {
+                    Console.WriteLine("¿Cuánto dinero va a dar?");
+                    dinero = double.Parse(Console.ReadLine());
+                    if (dinero == preciofinal)
+                    {
+                        Console.WriteLine("Usted pagará exacto al repartidor");
+                    }
+                    if (dinero > preciofinal)
+                    {
+                        Console.WriteLine("Su vuelto será de $" + (dinero - preciofinal));
+                    }
+                }
+                break;
+            case 2:
+                    Console.WriteLine("Seleccione su tipo de tarjeta");
+                    Console.WriteLine("Visa (1) MasterCard (2) American Express (3)");
+                    card = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese el número de su tarjeta");
+                    tarjeta = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese el CVV de su tarjeta");
+                    cvv = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Se ha completado con éxito la transacción de $" + preciofinal);
+                break;
+        }
+        Console.WriteLine("Su pedido llegará en un lapso de entre 15 y 30 minutos");
+        Console.WriteLine("Gracias por comprar con nosotros, disfrute su comida ;)");
     }
 }
