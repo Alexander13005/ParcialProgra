@@ -6651,7 +6651,7 @@
         switch (selec)
         {
             case 1:
-                while (dinero <= preciofinal)
+                while (dinero < preciofinal)
                 {
                     Console.WriteLine("¿Cuánto dinero va a dar?");
                     dinero = double.Parse(Console.ReadLine());
@@ -6714,4 +6714,4 @@
         Console.WriteLine("Su pedido llegará en un lapso de entre 15 y 30 minutos en la dirección:" + " " + direccion);
         Console.WriteLine("Gracias por comprar con nosotros, disfrute su comida ;)");
     }
-}
+}   
