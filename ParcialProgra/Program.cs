@@ -15,9 +15,9 @@
         int selec = 0;
         double dinero = 0;
         //VARIABLES TARJETA DE CREDITO
-        int card;
-        double tarjeta = 1;
-        int cvv = 1;
+        double select = 0;
+        double tarjeta = 0;
+        int cvv = 0;
 
         Console.WriteLine("Bienvenido a Rapids Food, por favor ingrese su nombre:");
         usuario = Console.ReadLine();
@@ -6668,15 +6668,50 @@
             case 2:
                     Console.WriteLine("Seleccione su tipo de tarjeta");
                     Console.WriteLine("Visa (1) MasterCard (2) American Express (3)");
-                    card = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el número de su tarjeta");
-                    tarjeta = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Ingrese el CVV de su tarjeta");
-                    cvv = int.Parse(Console.ReadLine());
+                    select = int.Parse(Console.ReadLine());
+                    switch (select)
+                    {
+                        case 1:
+                            while (tarjeta <= 99999999999 | tarjeta >= 1000000000000)
+                            {
+                                Console.WriteLine("Ingrese el número de tarjeta de crédito");
+                                tarjeta = double.Parse(Console.ReadLine());
+                            }
+                            while (cvv <= 99 | cvv >= 1000)
+                            {
+                                Console.WriteLine("Ingrese el CVV de su tarjeta de crédito");
+                                cvv = int.Parse(Console.ReadLine());
+                            }
+                            break;
+                        case 2:
+                            while (tarjeta <= 99999999999 | tarjeta >= 1000000000000)
+                            {
+                                Console.WriteLine("Ingrese el número de tarjeta de crédito");
+                                tarjeta = double.Parse(Console.ReadLine());
+                            }
+                            while (cvv <= 99 | cvv >= 1000)
+                            {
+                                Console.WriteLine("Ingrese el CVV de su tarjeta de crédito");
+                                cvv = int.Parse(Console.ReadLine());
+                            }
+                            break;
+                        case 3:
+                            while (tarjeta <= 99999999999 | tarjeta >= 1000000000000)
+                            {
+                                Console.WriteLine("Ingrese el número de tarjeta de crédito");
+                                tarjeta = double.Parse(Console.ReadLine());
+                            }
+                            while (cvv <= 999 | cvv >= 10000)
+                            {
+                                Console.WriteLine("Ingrese el CVV de su tarjeta de crédito");
+                                cvv = int.Parse(Console.ReadLine());
+                            }
+                            break;
+                    }
                     Console.WriteLine("Se ha completado con éxito la transacción de $" + preciofinal);
-                break;
+                    break;
         }
-        Console.WriteLine("Su pedido llegará en un lapso de entre 15 y 30 minutos");
+        Console.WriteLine("Su pedido llegará en un lapso de entre 15 y 30 minutos en la dirección:" + " " + direccion);
         Console.WriteLine("Gracias por comprar con nosotros, disfrute su comida ;)");
     }
 }
