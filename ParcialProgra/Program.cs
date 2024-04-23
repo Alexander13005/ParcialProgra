@@ -5902,7 +5902,6 @@
                                     }
                                     if (comb1 == 3)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promocion número" + " " + comb1 + " " + "y su precio es de " + "$" + (9.50 * cant));
@@ -5912,7 +5911,6 @@
                                     }
                                     if (comb1 == 4)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promocion número" + " " + comb1 + " " + "y su precio es de " + "$" + (12.20 * cant));
@@ -5922,7 +5920,6 @@
                                     }
                                     if (comb1 == 5)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promocion número" + " " + comb1 + " " + "y su precio es de " + "$" + (12.20 * cant));
@@ -5962,7 +5959,6 @@
                                     }
                                     if (comb1 == 2)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.10 * cant));
@@ -5972,7 +5968,6 @@
                                     }
                                     if (comb1 == 3)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.10 * cant));
@@ -5982,7 +5977,6 @@
                                     }
                                     if (comb1 == 4)
                                     {
-                                        comb1 = int.Parse(Console.ReadLine());
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (8.45 * cant));
@@ -5992,7 +5986,6 @@
                                     }
                                     if (comb1 == 5)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (8.45 * cant));
@@ -6002,7 +5995,6 @@
                                     }
                                     if (comb1 == 6)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (10.85 * cant));
@@ -6012,7 +6004,6 @@
                                     }
                                     if (comb1 == 7)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (10.85 * cant));
@@ -6382,6 +6373,7 @@
                                     }
                                     if (comb1 == 2)
                                     {
+
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo personal numero" + " " + comb1 + " " + "y su precio es de " + "$" + (10.25 * cant));
@@ -7356,8 +7348,9 @@
                         break;
                 }
                 break;
-            //MENU SANDWICHS 
-            case ("5"):
+   
+                case ("5"):
+                //MENU SANDWICHS 
                 Console.WriteLine("Que restaurante desea ordenar");
                 Console.WriteLine("Subway      (1)     Denny's      (2)      Ban Ban   (3)");
                 Console.WriteLine("Quiznos     (4)");
