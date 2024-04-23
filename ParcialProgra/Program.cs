@@ -5892,7 +5892,6 @@
                                     }
                                     if (comb1 == 2)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promocion número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.00 * cant));
@@ -5948,7 +5947,6 @@
                                     comb1 = int.Parse(Console.ReadLine());
                                     if (comb1 == 1)
                                     {
-
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la presentacion número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.10 * cant));
@@ -6709,8 +6707,8 @@
                             }
                         }
                         break;
-                    //RESTAURANTE CAIFU 
                     case ("4"):
+                        //RESTAURANTE CAIFU 
                         while (p == "Si")
                         {
                             Console.WriteLine("====================== RESTAURANTE CAIFU =========================");
@@ -7344,12 +7342,12 @@
                                     }
                                     break;
                             }
+
                         }
                         break;
                 }
                 break;
-   
-                case ("5"):
+            case ("5"):
                 //MENU SANDWICHS 
                 Console.WriteLine("Que restaurante desea ordenar");
                 Console.WriteLine("Subway      (1)     Denny's      (2)      Ban Ban   (3)");
@@ -10295,7 +10293,6 @@
                         break;
                 }
                 break;
-            //MENU HELADERIAS
             case ("10"):
                 Console.WriteLine("Qué heladeria desea ordenar");
                 Console.WriteLine("Helados Sarita (1)      La Neveria (2)");
