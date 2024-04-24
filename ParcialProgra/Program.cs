@@ -10307,11 +10307,7 @@
                                         p = Console.ReadLine();
                                     }
                                     break;
-
-
-
                             }
-
                         }
                         break;
                 }
