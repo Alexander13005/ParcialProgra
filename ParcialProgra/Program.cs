@@ -27,7 +27,7 @@
         Console.WriteLine("Hamburguesas (1)      Pizzas   (2)           Pollo    (3)");
         Console.WriteLine("Comida China (4)    Sandwiches (5)    Comida Mexicana (6)");
         Console.WriteLine("Cafetería    (7)       Carne   (8)          Mariscos  (9)");
-        Console.WriteLine("Heladería    (10)     Pupusas  (11)          Otros    (12)");
+        Console.WriteLine("Heladería    (10)     Pupusas  (11)");
         menu = Console.ReadLine();
         switch (menu)
         {
