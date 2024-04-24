@@ -64,7 +64,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promoción número" + " " + comb1 + " " + "y su precio es de " + "$" + (15.99 * cant));
                                         preciofinal = preciofinal + (15.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -73,7 +73,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promoción número" + " " + comb1 + " " + "y su precio es de " + "$" + (16.99 * cant));
                                         preciofinal = preciofinal + (16.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -82,7 +82,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promoción número" + " " + comb1 + " " + "y su precio es de " + "$" + (9.99 * cant));
                                         preciofinal = preciofinal + (9.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -91,7 +91,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promoción número" + " " + comb1 + " " + "y su precio es de " + "$" + (16.99 * cant));
                                         preciofinal = preciofinal + (16.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -100,7 +100,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la promoción número" + " " + comb1 + " " + "y su precio es de " + "$" + (21.99 * cant));
                                         preciofinal = preciofinal + (21.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -119,7 +119,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el desayuno número" + " " + desa1 + " " + "y su precio es de " + "$" + (5.45 * cant));
                                         preciofinal = preciofinal + (5.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -128,7 +128,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el desayuno número" + " " + desa1 + " " + "y su precio es de " + "$" + (5.20 * cant));
                                         preciofinal = preciofinal + (5.20 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -137,7 +137,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el desayuno número" + " " + desa1 + " " + "y su precio es de " + "$" + (4.70 * cant));
                                         preciofinal = preciofinal + (4.70 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -146,7 +146,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el desayuno número" + " " + desa1 + " " + "y su precio es de " + "$" + (5.05 * cant));
                                         preciofinal = preciofinal + (5.05 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -155,7 +155,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el desayuno número" + " " + desa1 + " " + "y su precio es de " + "$" + (6.70 * cant));
                                         preciofinal = preciofinal + (6.70 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -174,7 +174,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa número" + " " + ham1 + " " + "y su precio es de " + "$" + (6.85 * cant));
                                         preciofinal = preciofinal + (6.85 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -183,7 +183,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa número" + " " + ham1 + " " + "y su precio es de " + "$" + (6.10 * cant));
                                         preciofinal = preciofinal + (6.10 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -192,7 +192,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.05 * cant));
                                         preciofinal = preciofinal + (7.05 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -201,7 +201,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.30 * cant));
                                         preciofinal = preciofinal + (7.30 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -210,7 +210,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.50 * cant));
                                         preciofinal = preciofinal + (7.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -229,7 +229,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa gourmet número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (8.20 * cant));
                                         preciofinal = preciofinal + (8.20 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -238,7 +238,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa gourmet número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (8.45 * cant));
                                         preciofinal = preciofinal + (8.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -247,7 +247,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa gourmet número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -256,7 +256,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa gourmet número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (8.45 * cant));
                                         preciofinal = preciofinal + (8.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 5)
@@ -265,7 +265,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la hamburguesa gourmet número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -11801,7 +11801,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de antojitos número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.85 * cant));
                                         preciofinal = preciofinal + (0.85 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -11810,7 +11810,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de antojitos número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.15 * cant));
                                         preciofinal = preciofinal + (1.15 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -11819,7 +11819,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de antojitos número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.90 * cant));
                                         preciofinal = preciofinal + (0.90 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -11838,7 +11838,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de repostería número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.00 * cant));
                                         preciofinal = preciofinal + (1.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -11847,7 +11847,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de repostería número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -11856,7 +11856,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de repostería número" + " " + ham1 + " " + "y su precio es de " + "$" + (3.95 * cant));
                                         preciofinal = preciofinal + (3.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -11865,7 +11865,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de repostería número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.55 * cant));
                                         preciofinal = preciofinal + (1.55 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -11874,7 +11874,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de repostería número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -11915,7 +11915,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el banquete número" + " " + comb1 + " " + "y su precio es de " + "$" + (12.99 * cant));
                                         preciofinal = preciofinal + (12.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -11924,7 +11924,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el banquete número" + " " + comb1 + " " + "y su precio es de " + "$" + (25.99 * cant));
                                         preciofinal = preciofinal + (25.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -11933,7 +11933,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el banquete número" + " " + comb1 + " " + "y su precio es de " + "$" + (12.99 * cant));
                                         preciofinal = preciofinal + (12.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -11942,7 +11942,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el banquete número" + " " + comb1 + " " + "y su precio es de " + "$" + (12.50 * cant));
                                         preciofinal = preciofinal + (12.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -11960,7 +11960,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú clásico número" + " " + desa1 + " " + "y su precio es de " + "$" + (6.99 * cant));
                                         preciofinal = preciofinal + (6.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -11969,7 +11969,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú clásico número" + " " + desa1 + " " + "y su precio es de " + "$" + (6.50 * cant));
                                         preciofinal = preciofinal + (6.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -11978,7 +11978,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú clásico número" + " " + desa1 + " " + "y su precio es de " + "$" + (6.70 * cant));
                                         preciofinal = preciofinal + (6.70 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -11987,7 +11987,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú clásico número" + " " + desa1 + " " + "y su precio es de " + "$" + (7.00 * cant));
                                         preciofinal = preciofinal + (7.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12003,7 +12003,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pincho número" + " " + ham1 + " " + "y su precio es de " + "$" + (5.95 * cant));
                                         preciofinal = preciofinal + (5.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12012,7 +12012,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pincho número" + " " + ham1 + " " + "y su precio es de " + "$" + (5.95 * cant));
                                         preciofinal = preciofinal + (5.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -12030,7 +12030,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de comida mexicana número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (5.35 * cant));
                                         preciofinal = preciofinal + (5.35 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -12039,7 +12039,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de comida mexicana número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (5.70 * cant));
                                         preciofinal = preciofinal + (5.70 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -12048,7 +12048,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de comida mexicana número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (15.50 * cant));
                                         preciofinal = preciofinal + (15.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12067,7 +12067,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número " + " " + niños1 + " " + "y su precio es de " + "$" + (1.00 * cant));
                                         preciofinal = preciofinal + (1.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 2)
@@ -12076,7 +12076,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número " + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 3)
@@ -12085,7 +12085,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.50 * cant));
                                         preciofinal = preciofinal + (1.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 4)
@@ -12094,7 +12094,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.50 * cant));
                                         preciofinal = preciofinal + (1.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 5)
@@ -12103,7 +12103,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.75 * cant));
                                         preciofinal = preciofinal + (0.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12133,7 +12133,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + comb1 + " " + "y su precio es de " + "$" + (8.50 * cant));
                                         preciofinal = preciofinal + (8.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -12142,7 +12142,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + comb1 + " " + "y su precio es de " + "$" + (8.50 * cant));
                                         preciofinal = preciofinal + (8.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -12171,7 +12171,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de frituras número" + " " + desa1 + " " + "y su precio es de " + "$" + (8.00 * cant));
                                         preciofinal = preciofinal + (8.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -12180,7 +12180,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de frituras número" + " " + desa1 + " " + "y su precio es de " + "$" + (8.00 * cant));
                                         preciofinal = preciofinal + (8.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -12189,7 +12189,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el panini número" + " " + desa1 + " " + "y su precio es de " + "$" + (6.00 * cant));
                                         preciofinal = preciofinal + (6.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -12198,7 +12198,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de frituras número" + " " + desa1 + " " + "y su precio es de " + "$" + (7.50 * cant));
                                         preciofinal = preciofinal + (7.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -12207,7 +12207,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de frituras número" + " " + desa1 + " " + "y su precio es de " + "$" + (4.50 * cant));
                                         preciofinal = preciofinal + (4.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 6)
@@ -12216,7 +12216,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de frituras número" + " " + desa1 + " " + "y su precio es de " + "$" + (5.00 * cant));
                                         preciofinal = preciofinal + (5.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12232,7 +12232,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de pollo número" + " " + ham1 + " " + "y su precio es de " + "$" + (5.00 * cant));
                                         preciofinal = preciofinal + (4.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12241,7 +12241,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de pollo número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.00 * cant));
                                         preciofinal = preciofinal + (4.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12257,7 +12257,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el box número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (50.00 * cant));
                                         preciofinal = preciofinal + (50.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -12266,13 +12266,10 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el box número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (40.00 * cant));
                                         preciofinal = preciofinal + (40.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
-
-
-
                             }
                         }
                         break;
@@ -12298,7 +12295,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.99 * cant));
                                         preciofinal = preciofinal + (6.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -12307,7 +12304,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.50 * cant));
                                         preciofinal = preciofinal + (7.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12323,7 +12320,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + desa1 + " " + "y su precio es de " + "$" + (16.14 * cant));
                                         preciofinal = preciofinal + (16.14 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -12332,7 +12329,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + desa1 + " " + "y su precio es de " + "$" + (16.14 * cant));
                                         preciofinal = preciofinal + (16.14 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12350,7 +12347,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.50 * cant));
                                         preciofinal = preciofinal + (2.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12359,7 +12356,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (3.50 * cant));
                                         preciofinal = preciofinal + (3.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -12368,7 +12365,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.50 * cant));
                                         preciofinal = preciofinal + (4.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -12377,7 +12374,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.25 * cant));
                                         preciofinal = preciofinal + (4.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12396,7 +12393,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (7.99 * cant));
                                         preciofinal = preciofinal + (7.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -12405,7 +12402,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (8.99 * cant));
                                         preciofinal = preciofinal + (8.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -12414,7 +12411,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (8.99 * cant));
                                         preciofinal = preciofinal + (8.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -12423,7 +12420,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (7.99 * cant));
                                         preciofinal = preciofinal + (7.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 5)
@@ -12432,7 +12429,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la carne número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.99 * cant));
                                         preciofinal = preciofinal + (6.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12448,7 +12445,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la ensalda número" + " " + niños1 + " " + "y su precio es de " + "$" + (5.99 * cant));
                                         preciofinal = preciofinal + (5.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 2)
@@ -12457,7 +12454,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la ensalada número" + " " + niños1 + " " + "y su precio es de " + "$" + (5.99 * cant));
                                         preciofinal = preciofinal + (5.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12476,7 +12473,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el postre número" + " " + post1 + " " + "y su precio es de " + "$" + (1.99 * cant));
                                         preciofinal = preciofinal + (1.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 2)
@@ -12485,7 +12482,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el postre número" + " " + post1 + " " + "y su precio es de " + "$" + (1.99 * cant));
                                         preciofinal = preciofinal + (1.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 3)
@@ -12494,7 +12491,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el postre número" + " " + post1 + " " + "y su precio es de " + "$" + (1.00 * cant));
                                         preciofinal = preciofinal + (1.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 4)
@@ -12503,7 +12500,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el postre número" + " " + post1 + " " + "y su precio es de " + "$" + (1.00 * cant));
                                         preciofinal = preciofinal + (1.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 5)
@@ -12512,7 +12509,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el postre número" + " " + post1 + " " + "y su precio es de " + "$" + (0.65 * cant));
                                         preciofinal = preciofinal + (0.65 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12543,7 +12540,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el plato de temporada número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -12552,7 +12549,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el plato de temporada número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.95 * cant));
                                         preciofinal = preciofinal + (6.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -12561,7 +12558,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el plato de temporada número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.95 * cant));
                                         preciofinal = preciofinal + (6.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -12578,7 +12575,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de carne número" + " " + desa1 + " " + "y su precio es de " + "$" + (18.99 * cant));
                                         preciofinal = preciofinal + (18.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -12587,7 +12584,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de carne número" + " " + desa1 + " " + "y su precio es de " + "$" + (19.99 * cant));
                                         preciofinal = preciofinal + (19.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -12607,7 +12604,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.25 * cant));
                                         preciofinal = preciofinal + (7.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12616,7 +12613,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -12625,7 +12622,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (13.95 * cant));
                                         preciofinal = preciofinal + (13.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -12634,7 +12631,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (5.25 * cant));
                                         preciofinal = preciofinal + (5.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -12657,18 +12654,18 @@
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el menu de pastelería número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.75 * cant));
+                                        Console.WriteLine("Usted ha ordenado el menu de sopas número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el menu de pastelería número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.75 * cant));
+                                        Console.WriteLine("Usted ha ordenado el menu de sopas número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12684,7 +12681,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de postre número" + " " + ham1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12693,7 +12690,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de postre número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.99 * cant));
                                         preciofinal = preciofinal + (2.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -12713,7 +12710,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12722,7 +12719,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -12731,7 +12728,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -12740,7 +12737,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -12749,7 +12746,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.00 * cant));
                                         preciofinal = preciofinal + (1.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12778,36 +12775,36 @@
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el pack pan dulce número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.95 * cant));
+                                        Console.WriteLine("Usted ha ordenado la entrada" + " " + comb1 + " " + "y su precio es de " + "$" + (14.95 * cant));
                                         preciofinal = preciofinal + (15.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el pack pan dulce número" + " " + comb1 + " " + "y su precio es de " + "$" + (15.95 * cant));
+                                        Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (15.95 * cant));
                                         preciofinal = preciofinal + (22.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el pack pan dulce número" + " " + comb1 + " " + "y su precio es de " + "$" + (22.25 * cant));
+                                        Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (22.25 * cant));
                                         preciofinal = preciofinal + (22.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el pack pan dulce número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.00 * cant));
+                                        Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.00 * cant));
                                         preciofinal = preciofinal + (14.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -12822,18 +12819,18 @@
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el menú de reposteria número" + " " + desa1 + " " + "y su precio es de " + "$" + (24.25 * cant));
+                                        Console.WriteLine("Usted ha ordenado la sopa número" + " " + desa1 + " " + "y su precio es de " + "$" + (24.25 * cant));
                                         preciofinal = preciofinal + (24.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
-                                        Console.WriteLine("Usted ha ordenado el menú reposteria número" + " " + desa1 + " " + "y su precio es de " + "$" + (21.75 * cant));
+                                        Console.WriteLine("Usted ha ordenado la sopa número" + " " + desa1 + " " + "y su precio es de " + "$" + (21.75 * cant));
                                         preciofinal = preciofinal + (21.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -12852,7 +12849,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú parrillero número" + " " + ham1 + " " + "y su precio es de " + "$" + (19.95 * cant));
                                         preciofinal = preciofinal + (19.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12861,7 +12858,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú parrillero número" + " " + ham1 + " " + "y su precio es de " + "$" + (26.50 * cant));
                                         preciofinal = preciofinal + (26.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -12870,7 +12867,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú parrillero número" + " " + ham1 + " " + "y su precio es de " + "$" + (26.50 * cant));
                                         preciofinal = preciofinal + (26.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -12879,7 +12876,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú parrillero número" + " " + ham1 + " " + "y su precio es de " + "$" + (49.50 * cant));
                                         preciofinal = preciofinal + (49.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12895,7 +12892,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + ham1 + " " + "y su precio es de " + "$" + (19.50 * cant));
                                         preciofinal = preciofinal + (19.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12904,7 +12901,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + ham1 + " " + "y su precio es de " + "$" + (19.50 * cant));
                                         preciofinal = preciofinal + (19.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12921,7 +12918,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.00 * cant));
                                         preciofinal = preciofinal + (2.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -12930,7 +12927,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.50 * cant));
                                         preciofinal = preciofinal + (2.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -12939,7 +12936,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.50 * cant));
                                         preciofinal = preciofinal + (2.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -12962,7 +12959,7 @@
                         {
                             Console.WriteLine("Bienvenido al menú de Caliche´s, ¿Qué desea ordenar?");
                             Console.WriteLine("Mariscos (1)      Carnes   (2)    Para compartir (3)");
-                            Console.WriteLine("Entradas    (4)      Cócteles   (5)");
+                            Console.WriteLine("        Entradas (4)      Cócteles   (5)");
                             men1 = Console.ReadLine();
                             switch (men1)
                             {
@@ -12984,7 +12981,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -12993,7 +12990,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -13002,7 +12999,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (15.50 * cant));
                                         preciofinal = preciofinal + (15.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -13011,7 +13008,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -13020,7 +13017,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (17.25 * cant));
                                         preciofinal = preciofinal + (17.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 6)
@@ -13029,7 +13026,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.00 * cant));
                                         preciofinal = preciofinal + (14.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 7)
@@ -13038,7 +13035,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (16.50 * cant));
                                         preciofinal = preciofinal + (16.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 8)
@@ -13047,7 +13044,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de marisco número" + " " + comb1 + " " + "y su precio es de " + "$" + (15.00 * cant));
                                         preciofinal = preciofinal + (15.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13065,7 +13062,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + desa1 + " " + "y su precio es de " + "$" + (10.55 * cant));
                                         preciofinal = preciofinal + (10.55 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -13074,7 +13071,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + desa1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -13083,7 +13080,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + desa1 + " " + "y su precio es de " + "$" + (12.50 * cant));
                                         preciofinal = preciofinal + (12.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -13092,7 +13089,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + desa1 + " " + "y su precio es de " + "$" + (15.00 * cant));
                                         preciofinal = preciofinal + (15.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13111,7 +13108,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (17.25 * cant));
                                         preciofinal = preciofinal + (17.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13120,7 +13117,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (17.80 * cant));
                                         preciofinal = preciofinal + (17.80 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13129,7 +13126,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (33.25 * cant));
                                         preciofinal = preciofinal + (33.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -13138,7 +13135,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (21.25 * cant));
                                         preciofinal = preciofinal + (21.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -13147,7 +13144,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (20.50 * cant));
                                         preciofinal = preciofinal + (20.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -13166,7 +13163,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de entradas número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -13175,7 +13172,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de entradas número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -13184,7 +13181,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de entradas número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (12.75 * cant));
                                         preciofinal = preciofinal + (12.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -13193,7 +13190,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de entradas número:" + " " + gourmet1 + " " + "y su precio es de " + "$" + (8.50 * cant));
                                         preciofinal = preciofinal + (8.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13212,7 +13209,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número " + " " + niños1 + " " + "y su precio es de " + "$" + (14.16 * cant));
                                         preciofinal = preciofinal + (14.16 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 2)
@@ -13221,7 +13218,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número " + " " + niños1 + " " + "y su precio es de " + "$" + (15.54 * cant));
                                         preciofinal = preciofinal + (15.54 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 3)
@@ -13230,7 +13227,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número" + " " + niños1 + " " + "y su precio es de " + "$" + (14.50 * cant));
                                         preciofinal = preciofinal + (14.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 4)
@@ -13239,7 +13236,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número" + " " + niños1 + " " + "y su precio es de " + "$" + (15.00 * cant));
                                         preciofinal = preciofinal + (15.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 5)
@@ -13248,7 +13245,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número" + " " + niños1 + " " + "y su precio es de " + "$" + (14.50 * cant));
                                         preciofinal = preciofinal + (14.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13260,8 +13257,8 @@
                         while (p == "Si")
                         {
                             Console.WriteLine("Bienvenido al menú de puero marisco, ¿Qué desea ordenar?");
-                            Console.WriteLine("Entradas (1)      Ceviches   (2)   Cocteles (3)");
-                            Console.WriteLine("Camarones y calmar      (4)      Lonjas y pescado (5)    ");
+                            Console.WriteLine("     Entradas       (1)          Ceviches     (2)   Cocteles (3)");
+                            Console.WriteLine("       Camarones y calmar  (4)      Lonjas y pescado (5)");
                             men1 = Console.ReadLine();
                             switch (men1)
                             {
@@ -13280,7 +13277,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (8.50 * cant));
                                         preciofinal = preciofinal + (8.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -13289,7 +13286,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (8.50 * cant));
                                         preciofinal = preciofinal + (8.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -13298,7 +13295,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.50 * cant));
                                         preciofinal = preciofinal + (4.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -13307,7 +13304,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (5.50 * cant));
                                         preciofinal = preciofinal + (5.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -13316,7 +13313,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.00 * cant));
                                         preciofinal = preciofinal + (7.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13336,7 +13333,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + desa1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -13345,7 +13342,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + desa1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -13354,7 +13351,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + desa1 + " " + "y su precio es de " + "$" + (10.75 * cant));
                                         preciofinal = preciofinal + (10.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -13363,7 +13360,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + desa1 + " " + "y su precio es de " + "$" + (9.95 * cant));
                                         preciofinal = preciofinal + (9.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -13372,7 +13369,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + desa1 + " " + "y su precio es de " + "$" + (9.75 * cant));
                                         preciofinal = preciofinal + (9.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 6)
@@ -13381,7 +13378,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + desa1 + " " + "y su precio es de " + "$" + (10.25 * cant));
                                         preciofinal = preciofinal + (10.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13398,7 +13395,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de coctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (11.50 * cant));
                                         preciofinal = preciofinal + (11.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13407,7 +13404,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de coctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (11.95 * cant));
                                         preciofinal = preciofinal + (11.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13416,7 +13413,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de coctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13434,7 +13431,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de camaron número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -13443,7 +13440,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de camaron número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -13452,7 +13449,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de calamar número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (9.95 * cant));
                                         preciofinal = preciofinal + (9.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -13461,7 +13458,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de calamar número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (9.95 * cant));
                                         preciofinal = preciofinal + (9.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13473,8 +13470,8 @@
                         while (p == "Si")
                         {
                             Console.WriteLine("Bienvenido al menú de Le Mariské ¿Qué desea ordenar?");
-                            Console.WriteLine("Sopas (1)         Cócteles    (2)   ");
-                            Console.WriteLine("Bocas      (4)    Bebidas  (6)");
+                            Console.WriteLine("Sopas (1)    Cócteles (2)");
+                            Console.WriteLine("Bocas (4)    Bebidas  (6)");
                             men1 = Console.ReadLine();
                             switch (men1)
                             {
@@ -13492,7 +13489,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la sopa número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.99 * cant));
                                         preciofinal = preciofinal + (6.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -13501,7 +13498,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la sopa número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.50 * cant));
                                         preciofinal = preciofinal + (7.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -13510,7 +13507,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la sopa número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.95 * cant));
                                         preciofinal = preciofinal + (7.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -13519,7 +13516,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la sopa número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.95 * cant));
                                         preciofinal = preciofinal + (7.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13538,7 +13535,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + desa1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -13547,7 +13544,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + desa1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -13556,7 +13553,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número" + " " + desa1 + " " + "y su precio es de " + "$" + (8.95 * cant));
                                         preciofinal = preciofinal + (8.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -13565,7 +13562,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número" + " " + desa1 + " " + "y su precio es de " + "$" + (9.95 * cant));
                                         preciofinal = preciofinal + (9.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -13574,7 +13571,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el cóctel número" + " " + desa1 + " " + "y su precio es de " + "$" + (9.00 * cant));
                                         preciofinal = preciofinal + (9.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13592,7 +13589,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (5.00 * cant));
                                         preciofinal = preciofinal + (5.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13601,7 +13598,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.00 * cant));
                                         preciofinal = preciofinal + (2.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13610,7 +13607,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (3.95 * cant));
                                         preciofinal = preciofinal + (3.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -13619,7 +13616,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.95 * cant));
                                         preciofinal = preciofinal + (4.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13637,7 +13634,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.50 * cant));
                                         preciofinal = preciofinal + (1.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -13646,7 +13643,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.50 * cant));
                                         preciofinal = preciofinal + (1.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -13655,7 +13652,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -13664,7 +13661,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13679,7 +13676,7 @@
                         {
                             Console.WriteLine("Bienvenido al menú de la taberna del capitán, ¿Qué desea ordenar?");
                             Console.WriteLine("Entradas (1)      Para boquear  (2)   Para compartir   (3)");
-                            Console.WriteLine("Cóctels (4)        Ceviches (5)   Mariscos (6)");
+                            Console.WriteLine("Cóctels  (4)        Ceviches    (5)      Mariscos      (6)");
                             men1 = Console.ReadLine();
                             switch (men1)
                             {
@@ -13698,7 +13695,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.95 * cant));
                                         preciofinal = preciofinal + (3.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -13707,7 +13704,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (2.95 * cant));
                                         preciofinal = preciofinal + (2.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -13716,7 +13713,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -13725,7 +13722,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (5.95 * cant));
                                         preciofinal = preciofinal + (5.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -13734,7 +13731,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la entrada número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.95 * cant));
                                         preciofinal = preciofinal + (6.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
 
@@ -13753,7 +13750,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para boquear número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.80 * cant));
                                         preciofinal = preciofinal + (0.80 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -13762,7 +13759,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para boquear número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.80 * cant));
                                         preciofinal = preciofinal + (0.80 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -13771,7 +13768,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para boquear número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.80 * cant));
                                         preciofinal = preciofinal + (0.80 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -13780,7 +13777,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para boquear número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.80 * cant));
                                         preciofinal = preciofinal + (0.80 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13799,7 +13796,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13808,7 +13805,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (10.95 * cant));
                                         preciofinal = preciofinal + (10.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13817,7 +13814,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (13.95 * cant));
                                         preciofinal = preciofinal + (13.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -13826,7 +13823,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (15.25 * cant));
                                         preciofinal = preciofinal + (15.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -13835,7 +13832,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el  menú para compartir número" + " " + ham1 + " " + "y su precio es de " + "$" + (9.75 * cant));
                                         preciofinal = preciofinal + (9.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13853,7 +13850,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de cóctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (12.45 * cant));
                                         preciofinal = preciofinal + (12.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13862,7 +13859,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de cóctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (11.45 * cant));
                                         preciofinal = preciofinal + (11.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13871,7 +13868,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de cóctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (11.45 * cant));
                                         preciofinal = preciofinal + (11.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -13880,7 +13877,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menu de cóctel número" + " " + ham1 + " " + "y su precio es de " + "$" + (11.45 * cant));
                                         preciofinal = preciofinal + (11.45 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13898,7 +13895,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13907,7 +13904,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + ham1 + " " + "y su precio es de " + "$" + (8.95 * cant));
                                         preciofinal = preciofinal + (8.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13916,7 +13913,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -13925,7 +13922,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú de ceviche número" + " " + ham1 + " " + "y su precio es de " + "$" + (7.95 * cant));
                                         preciofinal = preciofinal + (7.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -13944,7 +13941,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (10.25 * cant));
                                         preciofinal = preciofinal + (10.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -13953,7 +13950,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (16.25 * cant));
                                         preciofinal = preciofinal + (16.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -13962,7 +13959,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (12.25 * cant));
                                         preciofinal = preciofinal + (12.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -13971,7 +13968,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (12.75 * cant));
                                         preciofinal = preciofinal + (12.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -13980,7 +13977,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + ham1 + " " + "y su precio es de " + "$" + (10.00 * cant));
                                         preciofinal = preciofinal + (10.00 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14024,7 +14021,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (26 * cant));
                                         preciofinal = preciofinal + (26 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -14033,7 +14030,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (21 * cant));
                                         preciofinal = preciofinal + (21 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -14042,7 +14039,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (16.5 * cant));
                                         preciofinal = preciofinal + (16.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -14051,7 +14048,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (21 * cant));
                                         preciofinal = preciofinal + (21 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -14060,7 +14057,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (21 * cant));
                                         preciofinal = preciofinal + (21 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 6)
@@ -14069,7 +14066,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (16.5 * cant));
                                         preciofinal = preciofinal + (16.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 7)
@@ -14078,7 +14075,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + comb1 + " " + "y su precio es de " + "$" + (2.5 * cant));
                                         preciofinal = preciofinal + (2.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14107,7 +14104,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (7 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -14116,7 +14113,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (7 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -14125,7 +14122,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (7 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -14134,7 +14131,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (7 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -14143,7 +14140,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (7 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 6)
@@ -14152,7 +14149,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (5 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 7)
@@ -14161,7 +14158,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (5 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 8)
@@ -14170,7 +14167,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (5 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 9)
@@ -14179,7 +14176,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (5 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 10)
@@ -14188,7 +14185,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (5 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 11)
@@ -14197,7 +14194,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 12)
@@ -14206,7 +14203,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 13)
@@ -14215,7 +14212,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 14)
@@ -14224,7 +14221,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 15)
@@ -14233,7 +14230,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el envasado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14264,7 +14261,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -14273,7 +14270,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -14282,7 +14279,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -14291,7 +14288,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -14300,7 +14297,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 6)
@@ -14309,7 +14306,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 7)
@@ -14318,7 +14315,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 8)
@@ -14327,7 +14324,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 9)
@@ -14336,7 +14333,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 10)
@@ -14345,7 +14342,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 11)
@@ -14354,7 +14351,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 12)
@@ -14363,7 +14360,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.75 * cant));
                                         preciofinal = preciofinal + (0.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 13)
@@ -14372,7 +14369,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.75 * cant));
                                         preciofinal = preciofinal + (0.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 14)
@@ -14381,7 +14378,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 15)
@@ -14390,7 +14387,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 16)
@@ -14399,7 +14396,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 17)
@@ -14408,7 +14405,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + ham1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14424,7 +14421,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.7 * cant));
                                         preciofinal = preciofinal + (1.7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -14433,7 +14430,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (3.5 * cant));
                                         preciofinal = preciofinal + (3.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14463,7 +14460,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el sundae número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.9 * cant));
                                         preciofinal = preciofinal + (6.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -14472,7 +14469,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el sundae número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.9 * cant));
                                         preciofinal = preciofinal + (6.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -14481,7 +14478,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el sundae número" + " " + comb1 + " " + "y su precio es de " + "$" + (6.9 * cant));
                                         preciofinal = preciofinal + (6.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14498,7 +14495,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el litro light número" + " " + desa1 + " " + "y su precio es de " + "$" + (4.6 * cant));
                                         preciofinal = preciofinal + (4.6 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -14507,7 +14504,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el litro light número" + " " + desa1 + " " + "y su precio es de " + "$" + (4.25 * cant));
                                         preciofinal = preciofinal + (4.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -14516,7 +14513,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el litro light número" + " " + desa1 + " " + "y su precio es de " + "$" + (4.25 * cant));
                                         preciofinal = preciofinal + (4.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14537,7 +14534,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (27 * cant));
                                         preciofinal = preciofinal + (27 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -14546,7 +14543,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (22 * cant));
                                         preciofinal = preciofinal + (22 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -14555,7 +14552,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (16 * cant));
                                         preciofinal = preciofinal + (16 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -14564,7 +14561,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (22 * cant));
                                         preciofinal = preciofinal + (22 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -14573,7 +14570,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (22 * cant));
                                         preciofinal = preciofinal + (22 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 6)
@@ -14582,7 +14579,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (22 * cant));
                                         preciofinal = preciofinal + (22 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 7)
@@ -14591,7 +14588,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el pastel número" + " " + ham1 + " " + "y su precio es de " + "$" + (16 * cant));
                                         preciofinal = preciofinal + (16 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14612,7 +14609,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -14621,7 +14618,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -14630,7 +14627,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -14639,7 +14636,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 5)
@@ -14648,7 +14645,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 6)
@@ -14657,7 +14654,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 7)
@@ -14666,7 +14663,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la opción número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (6.25 * cant));
                                         preciofinal = preciofinal + (6.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14701,7 +14698,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -14710,7 +14707,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -14719,7 +14716,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -14728,7 +14725,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -14737,7 +14734,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 6)
@@ -14746,7 +14743,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 7)
@@ -14755,7 +14752,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 8)
@@ -14764,7 +14761,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado tradicional número" + " " + comb1 + " " + "y su precio es de " + "$" + (3.99 * cant));
                                         preciofinal = preciofinal + (3.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14780,7 +14777,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -14789,7 +14786,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la paleta número" + " " + desa1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14806,7 +14803,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado keto número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.49 * cant));
                                         preciofinal = preciofinal + (4.49 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -14815,7 +14812,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado keto número" + " " + ham1 + " " + "y su precio es de " + "$" + (4.49 * cant));
                                         preciofinal = preciofinal + (4.49 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -14824,7 +14821,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado keto número" + " " + ham1 + " " + "y su precio es de " + "$" + (8 * cant));
                                         preciofinal = preciofinal + (8 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14843,7 +14840,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el topping número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (2.50 * cant));
                                         preciofinal = preciofinal + (2.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -14852,7 +14849,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el topping número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (0.3 * cant));
                                         preciofinal = preciofinal + (0.3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -14861,7 +14858,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el topping número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -14870,7 +14867,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el topping número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1 * cant));
                                         preciofinal = preciofinal + (1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 5)
@@ -14879,7 +14876,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el topping número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (0.5 * cant));
                                         preciofinal = preciofinal + (0.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14908,7 +14905,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (17.25 * cant));
                                         preciofinal = preciofinal + (17.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -14917,7 +14914,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (16 * cant));
                                         preciofinal = preciofinal + (16 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -14926,7 +14923,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (8 * cant));
                                         preciofinal = preciofinal + (8 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -14945,7 +14942,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado número" + " " + desa1 + " " + "y su precio es de " + "$" + (4.50 * cant));
                                         preciofinal = preciofinal + (4.50 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -14954,7 +14951,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado número" + " " + desa1 + " " + "y su precio es de " + "$" + (7 * cant));
                                         preciofinal = preciofinal + (7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -14963,7 +14960,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado número" + " " + desa1 + " " + "y su precio es de " + "$" + (13 * cant));
                                         preciofinal = preciofinal + (13 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -14972,7 +14969,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -14981,7 +14978,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el helado número" + " " + desa1 + " " + "y su precio es de " + "$" + (3 * cant));
                                         preciofinal = preciofinal + (3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15001,7 +14998,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el extra número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -15010,7 +15007,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el extra número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -15019,7 +15016,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el extra número" + " " + ham1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -15028,7 +15025,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el extra número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -15037,7 +15034,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el extra número" + " " + ham1 + " " + "y su precio es de " + "$" + (0.75 * cant));
                                         preciofinal = preciofinal + (0.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 6)
@@ -15046,7 +15043,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el extra número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15093,7 +15090,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -15102,7 +15099,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -15111,7 +15108,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -15120,7 +15117,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -15129,7 +15126,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 6)
@@ -15138,7 +15135,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 7)
@@ -15147,7 +15144,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (4.75 * cant));
                                         preciofinal = preciofinal + (4.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 8)
@@ -15156,7 +15153,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (5.25 * cant));
                                         preciofinal = preciofinal + (5.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 9)
@@ -15165,7 +15162,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (5.25 * cant));
                                         preciofinal = preciofinal + (5.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 10)
@@ -15174,7 +15171,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el menú número" + " " + comb1 + " " + "y su precio es de " + "$" + (5.25 * cant));
                                         preciofinal = preciofinal + (5.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15193,7 +15190,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -15202,7 +15199,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -15211,7 +15208,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -15220,7 +15217,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -15229,7 +15226,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15256,7 +15253,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -15265,7 +15262,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -15274,7 +15271,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -15283,7 +15280,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 5)
@@ -15292,7 +15289,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 6)
@@ -15301,7 +15298,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 7)
@@ -15310,7 +15307,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 8)
@@ -15319,7 +15316,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 9)
@@ -15328,7 +15325,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 10)
@@ -15337,7 +15334,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 11)
@@ -15346,7 +15343,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 12)
@@ -15355,7 +15352,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 13)
@@ -15364,7 +15361,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + ham1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15387,7 +15384,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -15396,7 +15393,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -15405,7 +15402,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -15414,7 +15411,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 5)
@@ -15423,7 +15420,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 6)
@@ -15432,7 +15429,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 7)
@@ -15441,7 +15438,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 8)
@@ -15450,7 +15447,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 9)
@@ -15459,7 +15456,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.75 * cant));
                                         preciofinal = preciofinal + (1.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15477,7 +15474,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + niños1 + " " + "y su precio es de " + "$" + (12.5 * cant));
                                         preciofinal = preciofinal + (12.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 2)
@@ -15486,7 +15483,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + niños1 + " " + "y su precio es de " + "$" + (13.5 * cant));
                                         preciofinal = preciofinal + (13.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 3)
@@ -15495,7 +15492,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + niños1 + " " + "y su precio es de " + "$" + (17.5 * cant));
                                         preciofinal = preciofinal + (17.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 4)
@@ -15504,7 +15501,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + niños1 + " " + "y su precio es de " + "$" + (22.99 * cant));
                                         preciofinal = preciofinal + (22.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15525,7 +15522,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 2)
@@ -15534,7 +15531,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 3)
@@ -15543,7 +15540,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 4)
@@ -15552,7 +15549,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 5)
@@ -15561,7 +15558,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 6)
@@ -15570,7 +15567,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 7)
@@ -15579,7 +15576,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15614,7 +15611,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (0.75 * cant));
                                         preciofinal = preciofinal + (0.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -15623,7 +15620,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -15632,7 +15629,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (0.99 * cant));
                                         preciofinal = preciofinal + (0.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -15641,7 +15638,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.15 * cant));
                                         preciofinal = preciofinal + (1.15 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 5)
@@ -15650,7 +15647,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.15 * cant));
                                         preciofinal = preciofinal + (1.15 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 6)
@@ -15659,7 +15656,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 7)
@@ -15668,7 +15665,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.10 * cant));
                                         preciofinal = preciofinal + (1.10 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 8)
@@ -15677,7 +15674,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.15 * cant));
                                         preciofinal = preciofinal + (1.15 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15704,7 +15701,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -15713,7 +15710,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -15722,7 +15719,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -15731,7 +15728,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -15740,7 +15737,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 6)
@@ -15749,7 +15746,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.15 * cant));
                                         preciofinal = preciofinal + (1.15 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 7)
@@ -15758,7 +15755,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.2 * cant));
                                         preciofinal = preciofinal + (1.2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 8)
@@ -15767,7 +15764,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 9)
@@ -15776,7 +15773,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.4 * cant));
                                         preciofinal = preciofinal + (1.4 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 10)
@@ -15785,7 +15782,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.4 * cant));
                                         preciofinal = preciofinal + (1.4 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 11)
@@ -15794,7 +15791,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.3 * cant));
                                         preciofinal = preciofinal + (1.3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 12)
@@ -15803,7 +15800,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.3 * cant));
                                         preciofinal = preciofinal + (1.3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 13)
@@ -15812,7 +15809,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.3 * cant));
                                         preciofinal = preciofinal + (1.3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15830,7 +15827,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el licuado número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.25 * cant));
                                         preciofinal = preciofinal + (2.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 2)
@@ -15839,7 +15836,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el licuado número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.25 * cant));
                                         preciofinal = preciofinal + (2.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 3)
@@ -15848,7 +15845,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el licuado número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.25 * cant));
                                         preciofinal = preciofinal + (2.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (ham1 == 4)
@@ -15857,7 +15854,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el licuado número" + " " + ham1 + " " + "y su precio es de " + "$" + (2.25 * cant));
                                         preciofinal = preciofinal + (2.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15875,7 +15872,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 2)
@@ -15884,7 +15881,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 3)
@@ -15893,7 +15890,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (gourmet1 == 4)
@@ -15902,7 +15899,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + gourmet1 + " " + "y su precio es de " + "$" + (3.5 * cant));
                                         preciofinal = preciofinal + (3.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -15924,7 +15921,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 2)
@@ -15933,7 +15930,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 3)
@@ -15942,7 +15939,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 4)
@@ -15951,7 +15948,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 5)
@@ -15960,7 +15957,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 6)
@@ -15969,7 +15966,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 7)
@@ -15978,7 +15975,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 8)
@@ -15987,7 +15984,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el refresco número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16006,7 +16003,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.75 * cant));
                                         preciofinal = preciofinal + (0.75 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 2)
@@ -16015,7 +16012,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 3)
@@ -16024,7 +16021,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.85 * cant));
                                         preciofinal = preciofinal + (0.85 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 4)
@@ -16033,7 +16030,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.99 * cant));
                                         preciofinal = preciofinal + (0.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 5)
@@ -16042,7 +16039,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.99 * cant));
                                         preciofinal = preciofinal + (0.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16072,7 +16069,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -16081,7 +16078,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.5 * cant));
                                         preciofinal = preciofinal + (1.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -16090,7 +16087,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 4)
@@ -16099,7 +16096,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (2 * cant));
                                         preciofinal = preciofinal + (2 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16114,7 +16111,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la enchilada número" + " " + desa1 + " " + "y su precio es de " + "$" + (2.5 * cant));
                                         preciofinal = preciofinal + (2.5 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16137,7 +16134,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 2)
@@ -16146,7 +16143,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 3)
@@ -16155,7 +16152,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.9 * cant));
                                         preciofinal = preciofinal + (0.9 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 4)
@@ -16164,7 +16161,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 5)
@@ -16173,7 +16170,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 6)
@@ -16182,7 +16179,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 7)
@@ -16191,7 +16188,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 8)
@@ -16200,7 +16197,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (niños1 == 9)
@@ -16209,7 +16206,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16227,7 +16224,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.25 * cant));
                                         preciofinal = preciofinal + (1.25 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 2)
@@ -16236,7 +16233,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 3)
@@ -16245,7 +16242,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 4)
@@ -16254,7 +16251,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16283,7 +16280,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (19.3 * cant));
                                         preciofinal = preciofinal + (19.3 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 2)
@@ -16292,7 +16289,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.6 * cant));
                                         preciofinal = preciofinal + (14.6 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (comb1 == 3)
@@ -16301,7 +16298,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.99 * cant));
                                         preciofinal = preciofinal + (7.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16328,7 +16325,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 2)
@@ -16337,7 +16334,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 3)
@@ -16346,7 +16343,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 4)
@@ -16355,7 +16352,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 5)
@@ -16364,7 +16361,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 6)
@@ -16373,7 +16370,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 7)
@@ -16382,7 +16379,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 8)
@@ -16391,7 +16388,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.4 * cant));
                                         preciofinal = preciofinal + (1.4 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 9)
@@ -16400,7 +16397,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 10)
@@ -16409,7 +16406,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 11)
@@ -16418,7 +16415,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 12)
@@ -16427,7 +16424,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (desa1 == 13)
@@ -16436,7 +16433,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
                                         preciofinal = preciofinal + (0.95 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16456,7 +16453,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 2)
@@ -16465,7 +16462,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.7 * cant));
                                         preciofinal = preciofinal + (0.7 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 3)
@@ -16474,7 +16471,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 4)
@@ -16482,8 +16479,8 @@
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
-                                        preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        preciofinal = preciofinal + (1.1 * cant); 
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 5)
@@ -16492,7 +16489,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
                                         preciofinal = preciofinal + (1.1 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     if (post1 == 6)
@@ -16501,7 +16498,7 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.99 * cant));
                                         preciofinal = preciofinal + (1.99 * cant);
-                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        Console.WriteLine("¿Desea ordenar algo más? Ingrese Si o No, exactamente con este mismo formato");
                                         p = Console.ReadLine();
                                     }
                                     break;
@@ -16582,5 +16579,7 @@
         }
         Console.WriteLine("Su pedido llegará en un lapso de entre 15 y 30 minutos en la dirección:" + " " + direccion);
         Console.WriteLine("Gracias por comprar con nosotros, disfrute su comida ;)");
+        Console.WriteLine("Oprima cualquier tecla para salir");
+        Console.ReadKey();
     }
 }   
