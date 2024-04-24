@@ -11773,7 +11773,7 @@
                                         Console.WriteLine("¿Desea ordenar algo más?");
                                         p = Console.ReadLine();
                                     }
-                                    if (gourmet == 9)
+                                    if (gourmet1 == 9)
                                     {
                                         Console.WriteLine("¿Cantidad a ordenar?");
                                         cant = int.Parse(Console.ReadLine());
