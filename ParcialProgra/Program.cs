@@ -11379,7 +11379,7 @@
             case ("11"):
                 Console.WriteLine("Qué restaurante desea ordenar");
                 Console.WriteLine("La Café Restaurant y Pupuseria (1)     Pupuseria Típica de Olocuilta (2)");
-                Console.WriteLine("Pupuseria y Antojitos de la Casa (3)     Comedor y Pupuseria Golden (6)");
+                Console.WriteLine("Pupuseria y Antojitos de la Casa (3)     Comedor y Pupuseria D & D (6)");
                 ham = Console.ReadLine();
                 switch (ham)
                 {
@@ -12362,6 +12362,465 @@
                                         cant = int.Parse(Console.ReadLine());
                                         Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.99 * cant));
                                         preciofinal = preciofinal + (0.99 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                            }
+                        }
+                        break;
+                    //PUPUSERIA Y ANTOJITOS DE LA CASA
+                    case ("3"):
+                        while (p == "Si")
+                        {
+                            Console.WriteLine("Bienvenido al menú de Pupuseria y Antojitos de la Casa, ¿Qué desea ordenar?");
+                            Console.WriteLine("Empanadas (1)      Enchiladas (2)      Pupusas (3)      Bebidas (4)");
+                            men1 = Console.ReadLine();
+                            switch (men1)
+                            {
+                                //MENU EMPANADAS DE LA CASA
+                                case ("1"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Empanadas de Plátano con Frijol.......$1.50 (1)");
+                                    Console.WriteLine("Empanadas de Plátano con Leche........$1.50 (2)");
+                                    Console.WriteLine("Empanadas de Plátano Mixtas...........$2.00 (3)");
+                                    Console.WriteLine("Empanadas Rellenas de Quesillo........$2.00 (4)");
+                                    comb1 = int.Parse(Console.ReadLine());
+                                    if (comb1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.5 * cant));
+                                        preciofinal = preciofinal + (1.5 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (comb1 == 2)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (1.5 * cant));
+                                        preciofinal = preciofinal + (1.5 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (comb1 == 3)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (2 * cant));
+                                        preciofinal = preciofinal + (2 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (comb1 == 4)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la empanada número" + " " + comb1 + " " + "y su precio es de " + "$" + (2 * cant));
+                                        preciofinal = preciofinal + (2 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                                //MENU ENCHILADAS DE LA CASA
+                                case ("2"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Enchiladas de Pollo (2 unidades).......$2.50 (1)");
+                                    desa1 = int.Parse(Console.ReadLine());
+                                    if (desa1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la enchilada número" + " " + desa1 + " " + "y su precio es de " + "$" + (2.5 * cant));
+                                        preciofinal = preciofinal + (2.5 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                                //MENU PUPUSAS DE LA CASA
+                                case ("3"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Revuelta....................$0.90 (1)");
+                                    Console.WriteLine("Frijol con Queso............$0.90 (2)");
+                                    Console.WriteLine("Frijoles....................$0.90 (3)");
+                                    Console.WriteLine("Chicharrón..................$1.10 (4)");
+                                    Console.WriteLine("Queso con Loroco............$1.10 (5)");
+                                    Console.WriteLine("Chicharrón con Queso........$1.10 (6)");
+                                    Console.WriteLine("Pollo.......................$1.10 (7)");
+                                    Console.WriteLine("Queso sin Loroco............$1.10 (8)");
+                                    Console.WriteLine("Jalapeño con Queso..........$1.10 (9)");
+                                    niños1 = int.Parse(Console.ReadLine());
+                                    if (niños1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.9 * cant));
+                                        preciofinal = preciofinal + (0.9 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 2)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.9 * cant));
+                                        preciofinal = preciofinal + (0.9 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 3)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (0.9 * cant));
+                                        preciofinal = preciofinal + (0.9 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 4)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 5)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 6)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 7)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 8)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (niños1 == 9)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + niños1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                                //MENU BEBIDAS DE LA CASA
+                                case ("4"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Horchata..................$1.25 (1)");
+                                    Console.WriteLine("Coca Cola Lata............$1.10 (2)");
+                                    Console.WriteLine("Mirinda Lata..............$1.10 (3)");
+                                    Console.WriteLine("Kolashampan Lata..........$1.10 (4)");
+                                    post1 = int.Parse(Console.ReadLine());
+                                    if (post1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.25 * cant));
+                                        preciofinal = preciofinal + (1.25 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 2)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 3)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 4)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                            }
+                        }
+                        break;
+                    //COMEDOR Y PUPUSERIA D Y D
+                    case ("4"):
+                        while (p == "Si")
+                        {
+                            Console.WriteLine("Bienvenido al menú de Comedor y Pupuseria D & D, ¿Qué desea ordenar?");
+                            Console.WriteLine("Combos Las Pupas  (1)          Pupusas  (2)          Bebidas  (3)");
+                            men1 = Console.ReadLine();
+                            switch (men1)
+                            {
+                                //MENU COMBOS D Y D
+                                case ("1"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Combo 21 (8 Revueltas + 9 Frijol con Queso + 5 Queso + Pepsi 1.5 Lts).....$19.30 (1)");
+                                    Console.WriteLine("Combo 15 (15 Pupusas Revueltas + Pepsi 1.5 Lts)...........................$14.60 (2)");
+                                    Console.WriteLine("EconoPupas (10 Pupusas Revueltas).........................................$ 7.99 (3)");
+                                    comb1 = int.Parse(Console.ReadLine());
+                                    if (comb1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (19.3 * cant));
+                                        preciofinal = preciofinal + (19.3 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (comb1 == 2)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (14.6 * cant));
+                                        preciofinal = preciofinal + (14.6 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (comb1 == 3)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado el combo número" + " " + comb1 + " " + "y su precio es de " + "$" + (7.99 * cant));
+                                        preciofinal = preciofinal + (7.99 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                                //MENU PUPUSAS D Y D
+                                case ("2"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Queso....................$0.95 (1)");
+                                    Console.WriteLine("Frijol con Queso.........$0.95 (2)");
+                                    Console.WriteLine("Frijol...................$0.95 (3)");
+                                    Console.WriteLine("Pollo....................$0.95 (4)");
+                                    Console.WriteLine("Chicharrón...............$0.95 (5)");
+                                    Console.WriteLine("Revuelta.................$0.95 (6)");
+                                    Console.WriteLine("Jalapeño.................$0.95 (7)");
+                                    Console.WriteLine("La Loca..................$1.40 (8)");
+                                    Console.WriteLine("Jamón....................$0.95 (9)");
+                                    Console.WriteLine("Chicharrón con Queso.....$0.95 (10)");
+                                    Console.WriteLine("Chorizo..................$0.95 (11)");
+                                    Console.WriteLine("Pupusa de Ajo............$0.95 (12)");
+                                    Console.WriteLine("Ayote....................$0.95 (13)");
+                                    desa1 = int.Parse(Console.ReadLine());
+                                    if (desa1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 2)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 3)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 4)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 5)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 6)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 7)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 8)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (1.4 * cant));
+                                        preciofinal = preciofinal + (1.4 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 9)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 10)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 11)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 12)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (desa1 == 13)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la pupusa número" + " " + desa1 + " " + "y su precio es de " + "$" + (0.95 * cant));
+                                        preciofinal = preciofinal + (0.95 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    break;
+                                //MENU BEBIDAS D Y D
+                                case ("3"):
+                                    Console.WriteLine("¿Qué desea pedir? Ingrese el número que aparece en el extremo derecho");
+                                    Console.WriteLine("Pepsi Lata.....................$1.10 (1)");
+                                    Console.WriteLine("Refresc del Día................$0.70 (2)");
+                                    Console.WriteLine("Petit Lata.....................$1.10 (3)");
+                                    Console.WriteLine("Jugo del Valle Mandarina.......$1.10 (4)");
+                                    Console.WriteLine("Salutaris Lata Toronja.........$1.10 (5)");
+                                    Console.WriteLine("Pepsi 1.5 Lts..................$1.99 (6)");
+                                    post1 = int.Parse(Console.ReadLine());
+                                    if (post1 == 1)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 2)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (0.7 * cant));
+                                        preciofinal = preciofinal + (0.7 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 3)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 4)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 5)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.1 * cant));
+                                        preciofinal = preciofinal + (1.1 * cant);
+                                        Console.WriteLine("¿Desea ordenar algo más?");
+                                        p = Console.ReadLine();
+                                    }
+                                    if (post1 == 6)
+                                    {
+                                        Console.WriteLine("¿Cantidad a ordenar?");
+                                        cant = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("Usted ha ordenado la bebida número" + " " + post1 + " " + "y su precio es de " + "$" + (1.99 * cant));
+                                        preciofinal = preciofinal + (1.99 * cant);
                                         Console.WriteLine("¿Desea ordenar algo más?");
                                         p = Console.ReadLine();
                                     }
